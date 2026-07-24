@@ -1,4 +1,4 @@
-two sum
+                                       two sum
 
 import java.util.*;
 public class Main {
@@ -16,7 +16,7 @@ public class Main {
 
  }
 
-Remove Duplicates from Sorted Array
+                                   Remove Duplicates from Sorted Array
 
 import java.util.*;
 public class Main {
@@ -35,7 +35,7 @@ public class Main {
     }
 }
 
-Best Time to Buy and Sell Stock
+                                          Best Time to Buy and Sell Stock
 import java.util.*;
 public class Main {
     public static int maxProfit(int[] prices) {
@@ -53,7 +53,7 @@ public class Main {
 
 }
 
-Plus One
+                                                          Plus One
 
 import java.util.*;
 public class Main {
@@ -71,7 +71,7 @@ public class Main {
     }
 }
 
-Missing Number
+                                                           Missing Number
 
 import java.util.*;
 public class Main {
@@ -85,7 +85,7 @@ public class Main {
     }
 }
 
-move zeros
+                                                          move zeros
 
 public static void moveZeroes(int[] nums) {
     int j = 0;
@@ -99,7 +99,7 @@ public static void moveZeroes(int[] nums) {
     }
 }
 
-Contains Duplicate
+                                                        Contains Duplicate
 
 public static boolean containsDuplicate(int[] nums) {
     HashSet<Integer> set = new HashSet<>();
@@ -112,7 +112,7 @@ public static boolean containsDuplicate(int[] nums) {
     return false;
 }
 
-Rotate Array
+                                                       Rotate Array
 
 public static void rotate(int[] nums, int k) {
     int n = nums.length;
@@ -133,7 +133,7 @@ public static void reverse(int[] nums, int left, int right) {
 }
 
 
-Third Maximum Number
+                                                  Third Maximum Number
 
 public static int thirdMax(int[] nums) {
     Long first = null, second = null, third = null;
